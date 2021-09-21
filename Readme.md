@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Алег Васілеўскі](https://up.htmlacademy.ru/htmlcss/32/user/1870051).
-* Наставник: `Неизвестно`.
+* Наставник:[Вадим Новаш](https://htmlacademy.ru/profile/stakeout)
 
 ---
 
