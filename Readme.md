@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Алег Васілеўскі](https://up.htmlacademy.ru/htmlcss/32/user/1870051).
-* Наставник:[Вадим (тут должен быть смайлик "котечка") Новаш](https://htmlacademy.ru/profile/stakeout)
+* Наставник: [Вадим Новаш](https://htmlacademy.ru/profile/stakeout)
 
 ---
 
